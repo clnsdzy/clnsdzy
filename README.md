@@ -6,7 +6,7 @@ I focus on building simple yet modern web apps and sites that improve user exper
 
 I also spend some of my time tutoring and mentoring the next generation of talents in the web dev community.
 
-I have a longer [portfolio webpage,](https://collinsduzzy.github.io/) if you are interested in knowing more about me.
+I have a longer [portfolio webpage,](https://clnsdzy.github.io/) if you are interested in knowing more about me.
 
 ---
 
@@ -42,23 +42,23 @@ I have a longer [portfolio webpage,](https://collinsduzzy.github.io/) if you are
 
 #### My Github Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=collinsduzzy&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_title=true&rank_icon=github&card_width=800)](https://github.com/anuraghazra/github-readme-stats) 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=clnsdzy&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_title=true&rank_icon=github&card_width=800)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
 #### Starter Packs
-[![Recipe.com](https://github-readme-stats.vercel.app/api/pin/?username=collinsduzzy&repo=Recipe.com&theme=transparent&card_width=800)](https://github.com/collinsduzzy/Recipe.com)
-[![NGA-LGA](https://github-readme-stats.vercel.app/api/pin/?username=collinsduzzy&repo=NG-LGA&theme=transparent&card_width=600)](https://github.com/collinsduzzy/NG-LGA)
+[![Recipe.com](https://github-readme-stats.vercel.app/api/pin/?username=clnsdzy&repo=Recipe.com&theme=transparent&card_width=800)](https://github.com/clnsdzy/Recipe.com)
+[![NGA-LGA](https://github-readme-stats.vercel.app/api/pin/?username=clnsdzy&repo=NG-LGA&theme=transparent&card_width=600)](https://github.com/clnsdzy/NG-LGA)
 
-[![thisisneverthat Product Page](https://github-readme-stats.vercel.app/api/pin/?username=collinsduzzy&repo=thisisneverthat-products-page&theme=transparent&card_width=400)](https://github.com/collinsduzzy/thisisneverthat-products-page)
-[![MaterializeCSS Starter Pack](https://github-readme-stats.vercel.app/api/pin/?username=collinsduzzy&repo=materialize-css-starter-pack&theme=transparent&card_width=1200)](https://github.com/collinsduzzy/materialize-css-starter-pack)
+[![thisisneverthat Product Page](https://github-readme-stats.vercel.app/api/pin/?username=clnsdzy&repo=thisisneverthat-products-page&theme=transparent&card_width=400)](https://github.com/clnsdzy/thisisneverthat-products-page)
+[![MaterializeCSS Starter Pack](https://github-readme-stats.vercel.app/api/pin/?username=clnsdzy&repo=materialize-css-starter-pack&theme=transparent&card_width=1200)](https://github.com/clnsdzy/materialize-css-starter-pack)
 
 ---
 
 #### I'm currently active in
 
 - [CORE-TECH](https://github.com/coresystechng) - A hub for young and aspiring web developers 👨🏾‍💻
-- [YouTube Channel](https://youtube.com/@collinsduzzy) - Creating web dev tutorials. Coming soon ⏳
+- [YouTube Channel](https://youtube.com/@clnsdzy) - Creating web dev tutorials. Coming soon ⏳
 
 ---
 
@@ -75,6 +75,6 @@ I have a longer [portfolio webpage,](https://collinsduzzy.github.io/) if you are
  
 ##### Let's build stuff together! 🛠🚀
 
-![](https://komarev.com/ghpvc/?username=collinsduzzy&style=flat-style) ![GitHub followers](https://img.shields.io/github/followers/collinsduzzy) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJhOn2pMQF5gSCdrziqexCQ)
+![](https://komarev.com/ghpvc/?username=clnsdzy&style=flat-style) ![GitHub followers](https://img.shields.io/github/followers/clnsdzy) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJhOn2pMQF5gSCdrziqexCQ)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&textBg=false&fontColor=134074&fontSize=60&section=footer)
