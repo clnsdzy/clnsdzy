@@ -42,7 +42,7 @@ I have a longer [portfolio webpage](https://clnsdzy.github.io/) if you are inter
 
 #### Starter Packs
 [![Recipe.com](https://github-readme-stats.vercel.app/api/pin/?username=clnsdzy&repo=Recipe.com&theme=transparent&card_width=800)](https://github.com/clnsdzy/Recipe.com)
-[![Recipe.com](https://github-readme-stats.vercel.app/api/pin/?username=clnsdzy&repo=Recipe.com&theme=transparent&card_width=800)](https://github.com/clnsdzy/Recipe.com)
+[![Random Quotes Generator](https://github-readme-stats.vercel.app/api/?username=clnsdzy&repo=random-quote-generator&theme=transparent&card_width=800)](https://github.com/clnsdzy/random-quote-generator)
 
 ---
 
