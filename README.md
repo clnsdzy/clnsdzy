@@ -2,11 +2,11 @@
 
 Hi there, I'm Collins (I go by `/clnsdzy` in most online places), a web developer based in Abuja, Nigeria.
 
-I focus on building simple yet modern web apps and sites that improve user experience & productivity. 
+I focus on building simple yet modern web applications and websites that enhance user experience & productivity. 
 
-I also spend some of my time tutoring and mentoring the next generation of talents in the web dev community.
+I also spend some of my time tutoring and mentoring the next generation of talent in the web dev community.
 
-I have a longer [portfolio webpage,](https://clnsdzy.github.io/) if you are interested in knowing more about me.
+I have a longer [portfolio webpage](https://clnsdzy.github.io/) if you are interested in knowing more about me.
 
 ---
 
