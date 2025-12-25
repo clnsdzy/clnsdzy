@@ -40,16 +40,9 @@ I have a longer [portfolio webpage,](https://clnsdzy.github.io/) if you are inte
 
 ---
 
-#### My Github Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=clnsdzy&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_title=true&rank_icon=github&card_width=800)](https://github.com/anuraghazra/github-readme-stats) 
-
----
-
 #### Starter Packs
 [![Recipe.com](https://github-readme-stats.vercel.app/api/pin/?username=clnsdzy&repo=Recipe.com&theme=transparent&card_width=800)](https://github.com/clnsdzy/Recipe.com)
 [![NGA-LGA](https://github-readme-stats.vercel.app/api/pin/?username=clnsdzy&repo=NG-LGA&theme=transparent&card_width=800)](https://github.com/clnsdzy/NG-LGA)
-
 [![thisisneverthat Product Page](https://github-readme-stats.vercel.app/api/pin/?username=clnsdzy&repo=thisisneverthat-products-page&theme=transparent&card_width=400)](https://github.com/clnsdzy/thisisneverthat-products-page)
 [![MaterializeCSS Starter Pack](https://github-readme-stats.vercel.app/api/pin/?username=clnsdzy&repo=materialize-css-starter-pack&theme=transparent&card_width=1200)](https://github.com/clnsdzy/materialize-css-starter-pack)
 
