@@ -3,7 +3,7 @@
 I'm Collins (`/clnsdzy` in most online places), a web developer based in Abuja, Nigeria.
 
  I build fast, responsive web apps and sites that help businesses and individuals actually get things done. 
- I have worked with [clients](https://coresystech.ng/clients.html) that include individuals, startups and large enteprises alike.
+ I have worked with [clients](https://coresystech.ng/clients.html) that include individuals, startups, and large enteprises alike.
 
 I also spend some of my time tutoring and mentoring the next generation of talent in the web dev community.
 
@@ -26,6 +26,7 @@ I have a longer [portfolio webpage](https://clnsdzy.github.io/) for more details
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DBFB?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -38,7 +39,7 @@ I have a longer [portfolio webpage](https://clnsdzy.github.io/) for more details
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
-![Curl](https://img.shields.io/badge/-Curl-073551?style=flat-square&logo=curl&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=white)
 
 ---
