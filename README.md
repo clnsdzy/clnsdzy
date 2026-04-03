@@ -31,6 +31,7 @@ I have a longer [portfolio webpage](https://clnsdzy.github.io/) for more details
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Mintlify](https://img.shields.io/badge/-Mintlify-18E299?style=flat-square&logo=mintlify&logoColor=white)
 
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![BootstrapCSS](https://img.shields.io/badge/-BootstrapCSS-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
